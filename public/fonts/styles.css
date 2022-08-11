@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Yekan";
+    src: url(includes/fonts/Yekan.eot);
+    src: url(includes/fonts/Yekan.eot?#iefix) format("embedded-opentype"),
+         url(includes/fonts/Yekan.woff) format("woff"),
+         url(includes/fonts/Yekan.ttf) format("truetype"),
+         url(includes/fonts/Yekan.svg#BYekan) format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+body{
+    font-family: Yekan, Tahoma !important;
+    text-align: right !important;
+}
+
+.yekan{
+    font-family: Yekan, Tahoma !important;
+    text-align: right !important;
+}
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+main{
+    padding-top: 60px;
+}
+.form-invalid{
+    border-color: #a52834;
+}
+

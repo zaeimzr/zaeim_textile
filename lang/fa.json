@@ -1,0 +1,20 @@
+{
+    "Login" : "ورود",
+    "Register" : "ثبت نام",
+    "Logout" : "خروج",
+    "product" : "محصولات",
+    "gallery" : "گالری",
+    "Email Address" : "آدرس ایمیل",
+    "Password" : "کلمه عبور",
+    "Remember Me" : "مرا به خاطر بسپار",
+    "Forgot Your Password?" : "رمز عبور خود را فراموش کرده اید؟",
+    "Name" : "نام",
+    "Confirm Password" : "تکرار کلمه عبور",
+    "You are logged in!" : "ورود شما موفقیت آمیز بود",
+    "Dashboard" : "پنل کاربری",
+    "profile" : "پروفایل",
+    "edit-profile" : "ویرایش پروفایل",
+    "edit" : "ویرایش",
+    "mainMenu" : "منوی اصلی",
+    "phone_number" : "شماره همراه"
+}
